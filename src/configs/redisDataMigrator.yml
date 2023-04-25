@@ -1,17 +1,15 @@
 srcRedis:
-  version: 5.0.3
   passwd: xxxxxxx
   url:
-    - 192.168.96.22:7001
-    - 192.168.96.22:7002
-    - 192.168.96.23:7001
-    - 192.168.96.23:7002
-    - 192.168.96.24:7001
-    - 192.168.96.24:7002
+    - localhost:17001
+    - localhost:17002
+    - localhost:17003
+    - localhost:17004
+    - localhost:17005
+    - localhost:17006
 
 destRedis:
-  version: 7.0.4
   password: xxxxxxxxxx
   url:
-    - 192.168.73.35:31046
-    - 192.168.73.36:31046
+    - localhost:31046
+    - localhost:31047
