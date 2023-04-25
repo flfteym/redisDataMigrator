@@ -1,5 +1,5 @@
 srcRedis:
-  passwd: xxxxxxx
+  passwd: sdfsdfsdf
   url:
     - localhost:17001
     - localhost:17002
@@ -9,7 +9,7 @@ srcRedis:
     - localhost:17006
 
 destRedis:
-  password: xxxxxxxxxx
+  password: sadfsadfs
   url:
     - localhost:31046
     - localhost:31047
