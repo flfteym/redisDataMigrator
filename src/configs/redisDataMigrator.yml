@@ -1,5 +1,5 @@
 srcRedis:
-  passwd: sdfsdfsdf
+  passwd: sdfsdfaxcvxcv
   url:
     - localhost:17001
     - localhost:17002
